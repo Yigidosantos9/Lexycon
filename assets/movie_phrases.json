@@ -1,0 +1,502 @@
+[
+  {
+    "phrase": "I'll be back.",
+    "meaning": "Geri geleceğim.",
+    "movie": "The Terminator (1984)"
+  },
+  {
+    "phrase": "May the Force be with you.",
+    "meaning": "Güç seninle olsun.",
+    "movie": "Star Wars (1977)"
+  },
+  {
+    "phrase": "You talking to me?",
+    "meaning": "Benimle mi konuşuyorsun?",
+    "movie": "Taxi Driver (1976)"
+  },
+  {
+    "phrase": "Life is like a box of chocolates. You never know what you're gonna get.",
+    "meaning": "Hayat sürprizlerle doludur, ne olacağını asla bilemezsin.",
+    "movie": "Forrest Gump (1994)"
+  },
+  {
+    "phrase": "Why so serious?",
+    "meaning": "Neden bu kadar ciddisin?",
+    "movie": "The Dark Knight (2008)"
+  },
+  {
+    "phrase": "To infinity and beyond!",
+    "meaning": "Sonsuzluğa ve ötesine!",
+    "movie": "Toy Story (1995)"
+  },
+  {
+    "phrase": "Keep your friends close, but your enemies closer.",
+    "meaning": "Dostlarını yakın tut, düşmanlarını daha da yakın.",
+    "movie": "The Godfather Part II (1974)"
+  },
+  {
+    "phrase": "Houston, we have a problem.",
+    "meaning": "Houston, bir sorunumuz var.",
+    "movie": "Apollo 13 (1995)"
+  },
+  {
+    "phrase": "I see dead people.",
+    "meaning": "Ölü insanları görüyorum.",
+    "movie": "The Sixth Sense (1999)"
+  },
+  {
+    "phrase": "Just keep swimming.",
+    "meaning": "Pes etme, yüzmeye devam et.",
+    "movie": "Finding Nemo (2003)"
+  },
+  {
+    "phrase": "Here's looking at you, kid.",
+    "meaning": "Sana hayranlıkla bakıyorum, ufaklık.",
+    "movie": "Casablanca (1942)"
+  },
+  {
+    "phrase": "I'm the king of the world!",
+    "meaning": "Dünyanın hakimi benim!",
+    "movie": "Titanic (1997)"
+  },
+  {
+    "phrase": "You can't handle the truth!",
+    "meaning": "Gerçeği kaldıramazsın!",
+    "movie": "A Few Good Men (1992)"
+  },
+  {
+    "phrase": "Elementary, my dear Watson.",
+    "meaning": "Çok basit sevgili Watson.",
+    "movie": "The Adventures of Sherlock Holmes (1939)"
+  },
+  {
+    "phrase": "I'm walking here!",
+    "meaning": "Yürüyorum burada, dikkat etsene!",
+    "movie": "Midnight Cowboy (1969)"
+  },
+  {
+    "phrase": "They may take our lives, but they'll never take our freedom!",
+    "meaning": "Hayatlarımızı alabilirler ama özgürlüğümüzü asla!",
+    "movie": "Braveheart (1995)"
+  },
+  {
+    "phrase": "Say hello to my little friend!",
+    "meaning": "Küçük dostuma merhaba de!",
+    "movie": "Scarface (1983)"
+  },
+  {
+    "phrase": "To me, you are perfect.",
+    "meaning": "Bana göre sen mükemmelsin.",
+    "movie": "Love Actually (2003)"
+  },
+  {
+    "phrase": "There's no place like home.",
+    "meaning": "Hiçbir yer evin yerini tutmaz.",
+    "movie": "The Wizard of Oz (1939)"
+  },
+  {
+    "phrase": "You're gonna need a bigger boat.",
+    "meaning": "Daha büyük bir tekneye ihtiyacın olacak.",
+    "movie": "Jaws (1975)"
+  },
+  {
+    "phrase": "Frankly, my dear, I don't give a damn.",
+    "meaning": "Açıkçası sevgilim, umurumda değil.",
+    "movie": "Gone with the Wind (1939)"
+  },
+  {
+    "phrase": "I am your father.",
+    "meaning": "Ben senin babanım.",
+    "movie": "Star Wars: The Empire Strikes Back (1980)"
+  },
+  {
+    "phrase": "There's no crying in baseball!",
+    "meaning": "Beyzbolda ağlamak yok!",
+    "movie": "A League of Their Own (1992)"
+  },
+  {
+    "phrase": "I'm having an old friend for dinner.",
+    "meaning": "Eski bir dostumla akşam yemeği yiyeceğim.",
+    "movie": "The Silence of the Lambs (1991)"
+  },
+  {
+    "phrase": "You complete me.",
+    "meaning": "Sen beni tamamlıyorsun.",
+    "movie": "Jerry Maguire (1996)"
+  },
+  {
+    "phrase": "It's alive! It's alive!",
+    "meaning": "Canlandı! Canlandı!",
+    "movie": "Frankenstein (1931)"
+  },
+  {
+    "phrase": "After all, tomorrow is another day.",
+    "meaning": "Sonuçta, yarın yeni bir gün.",
+    "movie": "Gone with the Wind (1939)"
+  },
+  {
+    "phrase": "This is the beginning of a beautiful friendship.",
+    "meaning": "Bu güzel bir dostluğun başlangıcı.",
+    "movie": "Casablanca (1942)"
+  },
+  {
+    "phrase": "I feel the need — the need for speed.",
+    "meaning": "Hız ihtiyacı hissediyorum.",
+    "movie": "Top Gun (1986)"
+  },
+  {
+    "phrase": "I wish I knew how to quit you.",
+    "meaning": "Senden nasıl vazgeçileceğini bilmek isterdim.",
+    "movie": "Brokeback Mountain (2005)"
+  },
+  {
+    "phrase": "You had me at hello.",
+    "meaning": "Beni ilk merhabanla etkilemiştin.",
+    "movie": "Jerry Maguire (1996)"
+  },
+  {
+    "phrase": "I'm not bad. I'm just drawn that way.",
+    "meaning": "Ben kötü değilim. Sadece öyle resmedildim.",
+    "movie": "Who Framed Roger Rabbit (1988)"
+  },
+  {
+    "phrase": "Toto, I've a feeling we're not in Kansas anymore.",
+    "meaning": "Toto, artık Kansas'ta olmadığımızı hissediyorum.",
+    "movie": "The Wizard of Oz (1939)"
+  },
+  {
+    "phrase": "Roads? Where we're going, we don't need roads.",
+    "meaning": "Yollar mı? Gideceğimiz yerde yola ihtiyacımız yok.",
+    "movie": "Back to the Future (1985)"
+  },
+  {
+    "phrase": "Hasta la vista, baby.",
+    "meaning": "Hoşça kal, bebek.",
+    "movie": "Terminator 2: Judgment Day (1991)"
+  },
+  {
+    "phrase": "Nobody puts Baby in a corner.",
+    "meaning": "Kimse Baby'yi köşeye itemez.",
+    "movie": "Dirty Dancing (1987)"
+  },
+  {
+    "phrase": "I drink your milkshake!",
+    "meaning": "Senin sütünü ben içerim!",
+    "movie": "There Will Be Blood (2007)"
+  },
+  {
+    "phrase": "It was beauty killed the beast.",
+    "meaning": "Canavarı öldüren güzellikti.",
+    "movie": "King Kong (1933)"
+  },
+  {
+    "phrase": "I'm just a girl, standing in front of a boy, asking him to love her.",
+    "meaning": "Ben sadece bir kızım, bir erkeğin karşısında durup onu sevmesini istiyorum.",
+    "movie": "Notting Hill (1999)"
+  },
+  {
+    "phrase": "I volunteer as tribute!",
+    "meaning": "Gönüllü oluyorum!",
+    "movie": "The Hunger Games (2012)"
+  },
+  {
+    "phrase": "Why did it have to be snakes?",
+    "meaning": "Neden illa yılanlar olmak zorunda?",
+    "movie": "Raiders of the Lost Ark (1981)"
+  },
+  {
+    "phrase": "Freedom!",
+    "meaning": "Özgürlük!",
+    "movie": "Braveheart (1995)"
+  },
+  {
+    "phrase": "This is Sparta!",
+    "meaning": "Burası Sparta!",
+    "movie": "300 (2006)"
+  },
+  {
+    "phrase": "A boy's best friend is his mother.",
+    "meaning": "Bir erkeğin en iyi arkadaşı annesidir.",
+    "movie": "Psycho (1960)"
+  },
+  {
+    "phrase": "They’re here!",
+    "meaning": "Geldiler!",
+    "movie": "Poltergeist (1982)"
+  },
+  {
+    "phrase": "With great power comes great responsibility.",
+    "meaning": "Büyük güç, büyük sorumluluk getirir.",
+    "movie": "Spider-Man (2002)"
+  },
+  {
+    "phrase": "Just when I thought I was out, they pull me back in.",
+    "meaning": "Tam kurtuldum sanırken, beni tekrar içeri çektiler.",
+    "movie": "The Godfather Part III (1990)"
+  },
+  {
+    "phrase": "I'm gonna make him an offer he can't refuse.",
+    "meaning": "Ona reddedemeyeceği bir teklif yapacağım.",
+    "movie": "The Godfather (1972)"
+  },
+  {
+    "phrase": "You're tearing me apart, Lisa!",
+    "meaning": "Beni mahvediyorsun Lisa!",
+    "movie": "The Room (2003)"
+  },
+  {
+    "phrase": "That'll do, pig. That'll do.",
+    "meaning": "Bu kadarı yeter domuzcuk, bu kadarı yeter.",
+    "movie": "Babe (1995)"
+  },
+  {
+    "phrase": "Smile, you son of a—!",
+    "meaning": "Gülümse, seni pislik!",
+    "movie": "Jaws (1975)"
+  },
+  {
+    "phrase": "I'm flying!",
+    "meaning": "Uçuyorum!",
+    "movie": "Titanic (1997)"
+  },
+  {
+    "phrase": "Wax on, wax off.",
+    "meaning": "Sür, sil.",
+    "movie": "The Karate Kid (1984)"
+  },
+  {
+    "phrase": "Get your stinking paws off me, you damn dirty ape!",
+    "meaning": "Kirli ellerini üzerimden çek, lanet maymun!",
+    "movie": "Planet of the Apes (1968)"
+  },
+  {
+    "phrase": "I’m the Dude, so that’s what you call me.",
+    "meaning": "Ben Dude’üm, yani bana böyle seslenirsin.",
+    "movie": "The Big Lebowski (1998)"
+  },
+  {
+    "phrase": "You is kind. You is smart. You is important.",
+    "meaning": "Sen iyisin. Sen zekisin. Sen önemlisin.",
+    "movie": "The Help (2011)"
+  },
+  {
+    "phrase": "There's a snake in my boot!",
+    "meaning": "Çizmeme yılan girmiş!",
+    "movie": "Toy Story (1995)"
+  },
+  {
+    "phrase": "Gentlemen, you can't fight in here! This is the War Room!",
+    "meaning": "Beyler, burada kavga edemezsiniz! Burası Savaş Odası!",
+    "movie": "Dr. Strangelove (1964)"
+  },
+  {
+    "phrase": "You make me want to be a better man.",
+    "meaning": "Sen beni daha iyi bir insan olmak istemeye itiyorsun.",
+    "movie": "As Good as It Gets (1997)"
+  },
+  {
+    "phrase": "You can't sit with us!",
+    "meaning": "Bizimle oturamazsın!",
+    "movie": "Mean Girls (2004)"
+  },
+  {
+    "phrase": "To die would be an awfully big adventure.",
+    "meaning": "Ölmek çok büyük bir macera olurdu.",
+    "movie": "Hook (1991)"
+  },
+  {
+    "phrase": "I am serious. And don't call me Shirley.",
+    "meaning": "Ciddiyim. Ve bana Shirley deme.",
+    "movie": "Airplane! (1980)"
+  },
+  {
+    "phrase": "What we've got here is failure to communicate.",
+    "meaning": "Burada yaşadığımız şey, iletişimsizlik.",
+    "movie": "Cool Hand Luke (1967)"
+  },
+  {
+    "phrase": "Tell me about it, stud.",
+    "meaning": "Anlat bakalım, yakışıklı.",
+    "movie": "Grease (1978)"
+  },
+  {
+    "phrase": "I know kung fu.",
+    "meaning": "Kung fu bildiğimi biliyorum.",
+    "movie": "The Matrix (1999)"
+  },
+  {
+    "phrase": "I'm the captain now.",
+    "meaning": "Artık kaptan benim.",
+    "movie": "Captain Phillips (2013)"
+  },
+  {
+    "phrase": "We're not in Kansas anymore.",
+    "meaning": "Artık Kansas'ta değiliz.",
+    "movie": "The Wizard of Oz (1939)"
+  },
+  {
+    "phrase": "I am inevitable.",
+    "meaning": "Ben kaçınılmazım.",
+    "movie": "Avengers: Endgame (2019)"
+  },
+  {
+    "phrase": "You either die a hero, or live long enough to see yourself become the villain.",
+    "meaning": "Ya kahraman olarak ölürsün ya da kötüye dönüşecek kadar uzun yaşarsın.",
+    "movie": "The Dark Knight (2008)"
+  },
+  {
+    "phrase": "I'm just one stomach flu away from my goal weight.",
+    "meaning": "Hedef kilomdan sadece bir mide gribi uzağım.",
+    "movie": "The Devil Wears Prada (2006)"
+  },
+  {
+    "phrase": "Run, Forrest, run!",
+    "meaning": "Koş Forrest, koş!",
+    "movie": "Forrest Gump (1994)"
+  },
+  {
+    "phrase": "This is your destiny.",
+    "meaning": "Bu senin kaderin.",
+    "movie": "Star Wars: Return of the Jedi (1983)"
+  },
+  {
+    "phrase": "So be it... Jedi.",
+    "meaning": "Öyle olsun... Jedi.",
+    "movie": "Star Wars: Return of the Jedi (1983)"
+  },
+  {
+    "phrase": "I love the smell of napalm in the morning.",
+    "meaning": "Sabahları napalm kokusunu seviyorum.",
+    "movie": "Apocalypse Now (1979)"
+  },
+  {
+    "phrase": "We’re gonna need a bigger team.",
+    "meaning": "Daha büyük bir takıma ihtiyacımız olacak.",
+    "movie": "Avengers: Infinity War (2018)"
+  },
+  {
+    "phrase": "You were the chosen one!",
+    "meaning": "Sen seçilmiş kişiydin!",
+    "movie": "Star Wars: Revenge of the Sith (2005)"
+  },
+  {
+    "phrase": "I'm king of the world!",
+    "meaning": "Dünyanın hakimi benim!",
+    "movie": "Titanic (1997)"
+  },
+  {
+    "phrase": "I solemnly swear that I am up to no good.",
+    "meaning": "Yemin ederim ki kötü bir şeyler yapıyorum.",
+    "movie": "Harry Potter and the Prisoner of Azkaban (2004)"
+  },
+  {
+    "phrase": "Happiness can be found even in the darkest of times.",
+    "meaning": "Mutluluk, en karanlık zamanlarda bile bulunabilir.",
+    "movie": "Harry Potter and the Prisoner of Azkaban (2004)"
+  },
+  {
+    "phrase": "Just keep swimming.",
+    "meaning": "Pes etme, yüzmeye devam et.",
+    "movie": "Finding Nemo (2003)"
+  },
+  {
+    "phrase": "It’s not who I am underneath, but what I do that defines me.",
+    "meaning": "Önemli olan içimde kim olduğum değil, ne yaptığım.",
+    "movie": "Batman Begins (2005)"
+  },
+  {
+    "phrase": "I volunteer as tribute!",
+    "meaning": "Gönüllü oluyorum!",
+    "movie": "The Hunger Games (2012)"
+  },
+  {
+    "phrase": "You're braver than you believe, stronger than you seem, and smarter than you think.",
+    "meaning": "İnandığından daha cesur, göründüğünden daha güçlü ve düşündüğünden daha zekisin.",
+    "movie": "Winnie the Pooh (2011)"
+  },
+  {
+    "phrase": "It's not personal, Sonny. It's strictly business.",
+    "meaning": "Bu kişisel değil Sonny, tamamen iş.",
+    "movie": "The Godfather (1972)"
+  },
+  {
+    "phrase": "This is the way.",
+    "meaning": "Yol budur.",
+    "movie": "The Mandalorian (2019)"
+  },
+  {
+    "phrase": "You can't handle the truth!",
+    "meaning": "Gerçeği kaldıramazsın!",
+    "movie": "A Few Good Men (1992)"
+  },
+  {
+    "phrase": "If you build it, he will come.",
+    "meaning": "Eğer yaparsan, o gelecektir.",
+    "movie": "Field of Dreams (1989)"
+  },
+  {
+    "phrase": "I see you.",
+    "meaning": "Seni görüyorum.",
+    "movie": "Avatar (2009)"
+  },
+  {
+    "phrase": "Everything is awesome!",
+    "meaning": "Her şey harika!",
+    "movie": "The Lego Movie (2014)"
+  },
+  {
+    "phrase": "You’re killing me, Smalls!",
+    "meaning": "Beni öldürüyorsun Smalls!",
+    "movie": "The Sandlot (1993)"
+  },
+  {
+    "phrase": "To boldly go where no man has gone before.",
+    "meaning": "Hiç kimsenin gitmediği yere cesurca gitmek.",
+    "movie": "Star Trek (1979)"
+  },
+  {
+    "phrase": "Some people can’t believe in themselves until someone else believes in them first.",
+    "meaning": "Bazı insanlar kendilerine inanamaz, ta ki biri onlara inanana kadar.",
+    "movie": "Good Will Hunting (1997)"
+  },
+  {
+    "phrase": "You're gonna be somebody.",
+    "meaning": "Sen biri olacaksın.",
+    "movie": "The Pursuit of Happyness (2006)"
+  },
+  {
+    "phrase": "Hope is a good thing, maybe the best of things.",
+    "meaning": "Umut iyi bir şeydir, belki de en iyisi.",
+    "movie": "The Shawshank Redemption (1994)"
+  },
+  {
+    "phrase": "This is only the beginning.",
+    "meaning": "Bu sadece bir başlangıç.",
+    "movie": "Dune (2021)"
+  },
+  {
+    "phrase": "I’m Batman.",
+    "meaning": "Ben Batman’im.",
+    "movie": "Batman (1989)"
+  },
+  {
+    "phrase": "You have no power over me.",
+    "meaning": "Üzerimde hiçbir gücün yok.",
+    "movie": "Labyrinth (1986)"
+  },
+  {
+    "phrase": "Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.",
+    "meaning": "Bazen hiç kimsenin bir şey beklemediği insanlar, kimsenin hayal bile edemediği şeyleri yapar.",
+    "movie": "The Imitation Game (2014)"
+  },
+  {
+    "phrase": "I’m not a smart man, but I know what love is.",
+    "meaning": "Zeki bir adam değilim ama sevginin ne olduğunu biliyorum.",
+    "movie": "Forrest Gump (1994)"
+  },
+  {
+    "phrase": "Let it go!",
+    "meaning": "Bırak gitsin!",
+    "movie": "Frozen (2013)"
+  }
+]

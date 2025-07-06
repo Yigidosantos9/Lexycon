@@ -1,0 +1,802 @@
+{
+  "deliberately": {
+    "translation": "kasten",
+    "options": [
+      "yanlışlıkla",
+      "rastgele",
+      "çabucak"
+    ]
+  },
+  "assume": {
+    "translation": "varsaymak",
+    "options": [
+      "kanıtlamak",
+      "reddetmek",
+      "incelemek"
+    ]
+  },
+  "conventional": {
+    "translation": "geleneksel",
+    "options": [
+      "deneysel",
+      "uygunsuz",
+      "rastgele"
+    ]
+  },
+  "enormously": {
+    "translation": "aşırı derecede",
+    "options": [
+      "kısmen",
+      "ortalama",
+      "yetersizce"
+    ]
+  },
+  "considerable": {
+    "translation": "önemli / kayda değer",
+    "options": [
+      "göz ardı edilebilir",
+      "küçük çaplı",
+      "geçici"
+    ]
+  },
+  "inevitable": {
+    "translation": "kaçınılmaz",
+    "options": [
+      "isteğe bağlı",
+      "nadir",
+      "çözülür"
+    ]
+  },
+  "maintain": {
+    "translation": "sürdürmek",
+    "options": [
+      "bırakmak",
+      "yok etmek",
+      "aksatmak"
+    ]
+  },
+  "occur": {
+    "translation": "meydana gelmek",
+    "options": [
+      "önlemek",
+      "geciktirmek",
+      "unutmak"
+    ]
+  },
+  "regret": {
+    "translation": "pişman olmak",
+    "options": [
+      "umut etmek",
+      "keyif almak",
+      "kutlamak"
+    ]
+  },
+  "concern": {
+    "translation": "endişe",
+    "options": [
+      "umut",
+      "eğlence",
+      "cesaret"
+    ]
+  },
+  "require": {
+    "translation": "gerektirmek",
+    "options": [
+      "önermek",
+      "engellemek",
+      "reddetmek"
+    ]
+  },
+  "approach": {
+    "translation": "yaklaşmak",
+    "options": [
+      "uzaklaşmak",
+      "saklanmak",
+      "kaçmak"
+    ]
+  },
+  "contrast": {
+    "translation": "zıtlık",
+    "options": [
+      "uyum",
+      "benzerlik",
+      "ilişki"
+    ]
+  },
+  "evaluate": {
+    "translation": "değerlendirmek",
+    "options": [
+      "reddetmek",
+      "unutmak",
+      "bozmak"
+    ]
+  },
+  "expand": {
+    "translation": "genişletmek",
+    "options": [
+      "daraltmak",
+      "sınırlamak",
+      "gizlemek"
+    ]
+  },
+  "persuade": {
+    "translation": "ikna etmek",
+    "options": [
+      "şaşırtmak",
+      "yargılamak",
+      "tehdit etmek"
+    ]
+  },
+  "demand": {
+    "translation": "talep etmek",
+    "options": [
+      "sunmak",
+      "reddetmek",
+      "göz ardı etmek"
+    ]
+  },
+  "obtain": {
+    "translation": "elde etmek",
+    "options": [
+      "kaybetmek",
+      "reddetmek",
+      "saklamak"
+    ]
+  },
+  "function": {
+    "translation": "işlev",
+    "options": [
+      "süs",
+      "renk",
+      "sorun"
+    ]
+  },
+  "determine": {
+    "translation": "belirlemek",
+    "options": [
+      "beklemek",
+      "karıştırmak",
+      "unutmak"
+    ]
+  },
+  "predict": {
+    "translation": "tahmin etmek",
+    "options": [
+      "kanıtlamak",
+      "reddetmek",
+      "yok saymak"
+    ]
+  },
+  "reluctant": {
+    "translation": "isteksiz",
+    "options": [
+      "hevesli",
+      "emin",
+      "sabırsız"
+    ]
+  },
+  "assistance": {
+    "translation": "yardım",
+    "options": [
+      "tehdit",
+      "engel",
+      "eleştiri"
+    ]
+  },
+  "beneficial": {
+    "translation": "yararlı",
+    "options": [
+      "zararlı",
+      "şüpheli",
+      "kararsız"
+    ]
+  },
+  "conflict": {
+    "translation": "çatışma",
+    "options": [
+      "anlaşma",
+      "eğlence",
+      "kutlama"
+    ]
+  },
+  "emphasize": {
+    "translation": "vurgulamak",
+    "options": [
+      "saklamak",
+      "göz ardı etmek",
+      "unutmak"
+    ]
+  },
+  "adjust": {
+    "translation": "ayarlamak",
+    "options": [
+      "bozmak",
+      "silmek",
+      "reddetmek"
+    ]
+  },
+  "capacity": {
+    "translation": "kapasite",
+    "options": [
+      "yetersizlik",
+      "hız",
+      "güvensizlik"
+    ]
+  },
+  "adequate": {
+    "translation": "yeterli",
+    "options": [
+      "fazla",
+      "az",
+      "gereksiz"
+    ]
+  },
+  "initial": {
+    "translation": "ilk",
+    "options": [
+      "son",
+      "sürekli",
+      "önemsiz"
+    ]
+  },
+  "justify": {
+    "translation": "haklı çıkarmak",
+    "options": [
+      "eleştirmek",
+      "saldırmak",
+      "saklamak"
+    ]
+  },
+  "permanent": {
+    "translation": "kalıcı",
+    "options": [
+      "geçici",
+      "kırılgan",
+      "önemsiz"
+    ]
+  },
+  "restrict": {
+    "translation": "sınırlamak",
+    "options": [
+      "serbest bırakmak",
+      "genişletmek",
+      "düzenlemek"
+    ]
+  },
+  "sufficient": {
+    "translation": "yeterli",
+    "options": [
+      "yetersiz",
+      "gereksiz",
+      "rastgele"
+    ]
+  },
+  "tend": {
+    "translation": "eğiliminde olmak",
+    "options": [
+      "karşı çıkmak",
+      "engellemek",
+      "önlemek"
+    ]
+  },
+  "variable": {
+    "translation": "değişken",
+    "options": [
+      "sabit",
+      "garanti",
+      "belirgin"
+    ]
+  },
+  "accurate": {
+    "translation": "doğru / kesin",
+    "options": [
+      "yaklaşık",
+      "yanlış",
+      "karışık"
+    ]
+  },
+  "collapse": {
+    "translation": "çökmek",
+    "options": [
+      "büyümek",
+      "gelişmek",
+      "desteklemek"
+    ]
+  },
+  "enhance": {
+    "translation": "geliştirmek",
+    "options": [
+      "zayıflatmak",
+      "engellemek",
+      "azaltmak"
+    ]
+  },
+  "sustain": {
+    "translation": "sürdürmek",
+    "options": [
+      "durdurmak",
+      "unutmak",
+      "kaldırmak"
+    ]
+  },
+  "aware": {
+    "translation": "farkında",
+    "options": [
+      "umursamaz",
+      "kayıtsız",
+      "kararsız"
+    ]
+  },
+  "brief": {
+    "translation": "kısa",
+    "options": [
+      "uzun",
+      "kapsamlı",
+      "karmaşık"
+    ]
+  },
+  "clarify": {
+    "translation": "açıklığa kavuşturmak",
+    "options": [
+      "karıştırmak",
+      "gizlemek",
+      "geciktirmek"
+    ]
+  },
+  "crucial": {
+    "translation": "çok önemli",
+    "options": [
+      "önemsiz",
+      "sıradan",
+      "geçici"
+    ]
+  },
+  "decline": {
+    "translation": "reddetmek / düşüşe geçmek",
+    "options": [
+      "kabul etmek",
+      "artmak",
+      "güçlenmek"
+    ]
+  },
+  "diverse": {
+    "translation": "çeşitli",
+    "options": [
+      "tek tip",
+      "basit",
+      "düzensiz"
+    ]
+  },
+  "efficient": {
+    "translation": "verimli",
+    "options": [
+      "tembel",
+      "boşa",
+      "dengesiz"
+    ]
+  },
+  "ensure": {
+    "translation": "garanti altına almak",
+    "options": [
+      "şüphe etmek",
+      "ertelemek",
+      "geciktirmek"
+    ]
+  },
+  "exclude": {
+    "translation": "dışlamak / hariç tutmak",
+    "options": [
+      "dahil etmek",
+      "tanıtmak",
+      "kutlamak"
+    ]
+  },
+  "flexible": {
+    "translation": "esnek",
+    "options": [
+      "sert",
+      "kırılgan",
+      "katı"
+    ]
+  },
+  "indicate": {
+    "translation": "belirtmek / göstermek",
+    "options": [
+      "saklamak",
+      "karıştırmak",
+      "reddetmek"
+    ]
+  },
+  "interpret": {
+    "translation": "yorumlamak",
+    "options": [
+      "reddetmek",
+      "karıştırmak",
+      "görmezden gelmek"
+    ]
+  },
+  "accumulate": {
+    "translation": "biriktirmek",
+    "options": [
+      "harcamak",
+      "bozmak",
+      "azaltmak"
+    ]
+  },
+  "precise": {
+    "translation": "kesin / tam",
+    "options": [
+      "belirsiz",
+      "yaklaşık",
+      "karışık"
+    ]
+  },
+  "relevant": {
+    "translation": "ilgili",
+    "options": [
+      "alakasız",
+      "gereksiz",
+      "önemsiz"
+    ]
+  },
+  "retain": {
+    "translation": "korumak / sürdürmek",
+    "options": [
+      "bırakmak",
+      "kaybetmek",
+      "kapatmak"
+    ]
+  },
+  "significant": {
+    "translation": "önemli",
+    "options": [
+      "basit",
+      "gelişigüzel",
+      "küçük"
+    ]
+  },
+  "submit": {
+    "translation": "teslim etmek",
+    "options": [
+      "reddetmek",
+      "saklamak",
+      "unutmak"
+    ]
+  },
+  "valid": {
+    "translation": "geçerli",
+    "options": [
+      "geçersiz",
+      "yanlış",
+      "eksik"
+    ]
+  },
+  "widespread": {
+    "translation": "yaygın",
+    "options": [
+      "nadir",
+      "özel",
+      "sınırlı"
+    ]
+  },
+  "adjustment": {
+    "translation": "ayarlama",
+    "options": [
+      "bozma",
+      "sınırlama",
+      "yok etme"
+    ]
+  },
+  "anticipate": {
+    "translation": "beklemek / tahmin etmek",
+    "options": [
+      "geciktirmek",
+      "reddetmek",
+      "unutmak"
+    ]
+  },
+  "mediate": {
+    "translation": "arabuluculuk yapmak",
+    "options": [
+      "kavga etmek",
+      "reddetmek",
+      "karışmak"
+    ]
+  },
+  "contribute": {
+    "translation": "katkıda bulunmak",
+    "options": [
+      "zarar vermek",
+      "göz ardı etmek",
+      "çekilmek"
+    ]
+  },
+  "devote": {
+    "translation": "adamak",
+    "options": [
+      "reddetmek",
+      "unutmak",
+      "engellemek"
+    ]
+  },
+  "emerge": {
+    "translation": "ortaya çıkmak",
+    "options": [
+      "kaybolmak",
+      "saklanmak",
+      "yok olmak"
+    ]
+  },
+  "found": {
+    "translation": "kurmak",
+    "options": [
+      "yıkmak",
+      "reddetmek",
+      "kaybetmek"
+    ]
+  },
+  "highlight": {
+    "translation": "vurgulamak",
+    "options": [
+      "gizlemek",
+      "karartmak",
+      "susturmak"
+    ]
+  },
+  "ignore": {
+    "translation": "göz ardı etmek",
+    "options": [
+      "dahil etmek",
+      "desteklemek",
+      "övmek"
+    ]
+  },
+  "imply": {
+    "translation": "ima etmek",
+    "options": [
+      "kanıtlamak",
+      "reddetmek",
+      "açıkça söylemek"
+    ]
+  },
+  "incorporate": {
+    "translation": "birleştirmek / dahil etmek",
+    "options": [
+      "ayırmak",
+      "yok etmek",
+      "karıştırmak"
+    ]
+  },
+  "innovation": {
+    "translation": "yenilik",
+    "options": [
+      "alışılmış",
+      "tekrar",
+      "gelenek"
+    ]
+  },
+  "monitor": {
+    "translation": "izlemek / denetlemek",
+    "options": [
+      "yok saymak",
+      "bırakmak",
+      "desteklemek"
+    ]
+  },
+  "notion": {
+    "translation": "kavram / düşünce",
+    "options": [
+      "şüphe",
+      "gerçek",
+      "çözüm"
+    ]
+  },
+  "compile": {
+    "translation": "derlemek / toplamak",
+    "options": [
+      "dağıtmak",
+      "silmek",
+      "saklamak"
+    ]
+  },
+  "perspective": {
+    "translation": "bakış açısı",
+    "options": [
+      "karar",
+      "çözüm",
+      "olay"
+    ]
+  },
+  "prior": {
+    "translation": "önceki",
+    "options": [
+      "sonraki",
+      "şimdiki",
+      "güncel"
+    ]
+  },
+  "promote": {
+    "translation": "desteklemek / terfi ettirmek",
+    "options": [
+      "engellemek",
+      "azaltmak",
+      "küçümsemek"
+    ]
+  },
+  "transform": {
+    "translation": "dönüştürmek",
+    "options": [
+      "korumak",
+      "durdurmak",
+      "saklamak"
+    ]
+  },
+  "unique": {
+    "translation": "eşsiz",
+    "options": [
+      "yaygın",
+      "sıradan",
+      "benzer"
+    ]
+  },
+  "adapt": {
+    "translation": "uyum sağlamak",
+    "options": [
+      "karşı çıkmak",
+      "reddetmek",
+      "ayırmak"
+    ]
+  },
+  "allocate": {
+    "translation": "tahsis etmek",
+    "options": [
+      "geri almak",
+      "saklamak",
+      "unutmak"
+    ]
+  },
+  "assess": {
+    "translation": "değerlendirmek",
+    "options": [
+      "reddetmek",
+      "gizlemek",
+      "unutmak"
+    ]
+  },
+  "utilize": {
+    "translation": "kullanmak / faydalanmak",
+    "options": [
+      "saklamak",
+      "bırakmak",
+      "unutmak"
+    ]
+  },
+  "consult": {
+    "translation": "danışmak",
+    "options": [
+      "emretmek",
+      "eleştirmek",
+      "unutmak"
+    ]
+  },
+  "derive": {
+    "translation": "türetmek / elde etmek",
+    "options": [
+      "kaybetmek",
+      "reddetmek",
+      "bozmak"
+    ]
+  },
+  "eliminate": {
+    "translation": "ortadan kaldırmak",
+    "options": [
+      "eklemek",
+      "teşvik etmek",
+      "korumak"
+    ]
+  },
+  "acquire": {
+    "translation": "edinmek / kazanmak",
+    "options": [
+      "reddetmek",
+      "kaybetmek",
+      "bırakmak"
+    ]
+  },
+  "framework": {
+    "translation": "çerçeve / yapı",
+    "options": [
+      "boşluk",
+      "karışıklık",
+      "ayrıntı"
+    ]
+  },
+  "guarantee": {
+    "translation": "garanti etmek",
+    "options": [
+      "şüphe etmek",
+      "yok saymak",
+      "ertelemek"
+    ]
+  },
+  "implement": {
+    "translation": "uygulamak",
+    "options": [
+      "planlamak",
+      "erteleme",
+      "durdurmak"
+    ]
+  },
+  "interact": {
+    "translation": "etkileşimde bulunmak",
+    "options": [
+      "göz ardı etmek",
+      "karışmamak",
+      "reddetmek"
+    ]
+  },
+  "compensate": {
+    "translation": "telafi etmek",
+    "options": [
+      "gizlemek",
+      "engellemek",
+      "bozmak"
+    ]
+  },
+  "obvious": {
+    "translation": "açık / bariz",
+    "options": [
+      "belirsiz",
+      "karmaşık",
+      "gizli"
+    ]
+  },
+  "pursue": {
+    "translation": "takip etmek / peşinden gitmek",
+    "options": [
+      "bırakmak",
+      "reddetmek",
+      "önlemek"
+    ]
+  },
+  "reject": {
+    "translation": "reddetmek",
+    "options": [
+      "kabul etmek",
+      "onaylamak",
+      "benimsemek"
+    ]
+  },
+  "resolve": {
+    "translation": "çözmek",
+    "options": [
+      "bozmak",
+      "ertemek",
+      "karmaşıklaştırmak"
+    ]
+  },
+  "seek": {
+    "translation": "aramak",
+    "options": [
+      "bulmak",
+      "görmezden gelmek",
+      "reddetmek"
+    ]
+  },
+  "specify": {
+    "translation": "belirtmek",
+    "options": [
+      "gizlemek",
+      "unutmak",
+      "karıştırmak"
+    ]
+  },
+  "undergo": {
+    "translation": "geçirmek (bir süreç / değişim)",
+    "options": [
+      "önlemek",
+      "yok etmek",
+      "reddetmek"
+    ]
+  }
+}
