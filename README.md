@@ -29,7 +29,8 @@ This app is designed to help you learn, practice, and master English vocabulary 
 
 ## 📱 Screenshots
 
-> _Add screenshots of your app here for a better first impression!_
+![home](https://github.com/user-attachments/assets/213f7067-cce2-414a-87d4-70991497a7f1)
+![word details](https://github.com/user-attachments/assets/2e2615d6-b025-4274-ad14-bbed7c42894f)
 
 ---
 
@@ -105,7 +106,7 @@ This project is licensed under the MIT License.
 ## ✨ Author
 
 **Furkan Yiğit Bakım**  
-[LinkedIn](https://www.linkedin.com/in/furkanyigitbakim/)  
+[LinkedIn](https://www.linkedin.com/in/furkan-yi%C4%9Fit-bak%C4%B1m/)  
 [GitHub](https://github.com/Yigidosantos9)
 
 ---
